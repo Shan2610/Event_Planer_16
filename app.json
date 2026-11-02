@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "Event Planner",
+    "slug": "event-planner-app",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "android": { "package": "com.student.eventplanner", "permissions": ["POST_NOTIFICATIONS", "SCHEDULE_EXACT_ALARM"] },
+    "plugins": ["expo-notifications"]
+  }
+}
